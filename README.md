@@ -2,4 +2,4 @@ demo
 ====
 demo
 
-add some documentation
+live demoing!
