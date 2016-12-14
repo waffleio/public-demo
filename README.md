@@ -1,5 +1,3 @@
 demo
 ====
-demo
 
-live demoing!
