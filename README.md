@@ -1,4 +1,4 @@
 demo
 ====
 
-live demo!
+live demo of slackify!
